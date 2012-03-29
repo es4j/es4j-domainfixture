@@ -5,12 +5,12 @@
                       http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.lingona.cd4j</groupId>
-    <artifactId>cd4j</artifactId>
+    <groupId>com.lingona.es4j</groupId>
+    <artifactId>es4j-domain</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>cd4j</name>
+    <name>es4j-domain</name>
     <url>http://maven.apache.org</url>
 
     <properties>
@@ -22,6 +22,11 @@
         <dependency>
             <groupId>com.lingona.es4j</groupId>
             <artifactId>es4j-api</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>com.lingona.es4j</groupId>
+            <artifactId>es4j-core</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
         <dependency>
