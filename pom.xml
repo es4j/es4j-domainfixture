@@ -6,11 +6,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.lingona.es4j</groupId>
-    <artifactId>es4j-domain</artifactId>
+    <artifactId>es4j-domainfixture</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
-    <name>es4j-domain</name>
+    <name>es4j-domainfixture</name>
     <url>http://maven.apache.org</url>
 
     <properties>
@@ -22,6 +22,6 @@
         <module>api</module>
         <module>core</module>
     </modules>
-        
+
 </project>
 
